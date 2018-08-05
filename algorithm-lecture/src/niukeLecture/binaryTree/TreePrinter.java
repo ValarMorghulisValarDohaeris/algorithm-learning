@@ -1,4 +1,4 @@
-package niukeLecture;
+package niukeLecture.binaryTree;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
